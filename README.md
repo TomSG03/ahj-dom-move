@@ -1,6 +1,6 @@
 # Продвинутый JavaScript в браузере
 
-## [Домашнее задание к лекции «Обработка событий»](https://github.com/TomSG03/ahj-homeworks/tree/simplification/events)
+## [Домашнее задание к занятию "Работа с DOM"](https://github.com/TomSG03/ahj-homeworks/tree/master/dom)
 
 - [x] Перемещение элемента
 
